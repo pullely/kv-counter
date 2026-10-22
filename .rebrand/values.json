@@ -1,0 +1,9 @@
+{
+  "reponame": "kv-counter",
+  "productname": "Kv Counter",
+  "productdomain": "",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "org_600b9343cba84c5da04b70718e69ed4f",
+  "githuborg": "pullely",
+  "epicSlug": "kv-redis-baselining"
+}
